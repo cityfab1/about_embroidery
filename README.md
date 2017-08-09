@@ -16,3 +16,9 @@
 **Attention : toujours couper le fil au niveau de la bobine, et le tirer au niveau de l’aiguille pour l’enlever. Retirer le fil dans l’autre sens abime les capteurs de la machine.**
 
 **La vitesse : toujours mettre à vitesse lente lorsque l’on débute une nouvelle couleur pour éviter que le fil ne casse.**
+
+
+## 1ere étape :
+
+Choisir le tissu qui va être bordé (pour les badges choisir un tissu tissé ou non tissé épais qui s’effiloche peu ou pas du tout). 
+Choisir  la dimension de la broderie, (ça ne sert à rien de débuter par un grand projet lorsque l’on débute, c’est long et les risques de faire rater le projet sont plus élevés…)
