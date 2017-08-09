@@ -77,3 +77,56 @@ Déplacement vertical : Alt + roulette souris
     **Carré vert :** La ou la machine va commencer le motif de la broderie  
     **Croix rouge :** là où la machine va terminer le motif de la broderie 
     **Barre espace :** un fois le point sélectionné, cela permet de transformer le point d’ancrage d’une droite en point d’ancrage d’une courbe  
+#### La Toolbox : (les outils de base) 
+
+![toolbox](https://user-images.githubusercontent.com/30686874/29126218-ff188a34-7d1d-11e7-9525-f3e50c09a4d1.JPG)  
+**0pen object :** dessiner un motif creux en cliquant a différent endroit > enter pour terminer l’objet  
+**Closed object :** dessiner un motif plein   
+**Open freehand :** dessiner un motif creux à main levé  
+**Closed freehand :** dessiner un motif plein à main levé  
+**Block :** dessiner bloc par bloc, comme avec une échelle permet de faire des formes ou l’axe du fil se dessine en arc de cercle     
+**Ellipse :** dessin d’ellipse   
+**Rectangle :** dessin de rectangle  
+**Lettering :** écrire des textes   
+
+
+#### Fills et Outlines 
+  
+**Outilines :** Permet de modifier les bordure des motifs 
+**Fills :** permet de canger le type de remplissage des motif 
+    * Step fill : Remplissage de base avec points intermédiaires
+    * Satin : remplissage d’un point a a un point B sans points intérmédiaire (ok pour les petites surface mais fragile pour les grandes) 
+
+**Les autres points :** point fantaisistes (à tester) 
+
+
+#### Object proprieties 
+ 
+**Fill type :** permet de choisir le type de remplissage que l’on souhaite 
+**Stitch spacing :** permet de choisir l’espacement entre les lignes de points pour le remplissage (de manière générale 0.40 mm 
+**Step partern :** permet de créé des effet dans les points (croisée, en décalage etc..)
+**Stitch Length :** permet de mofofier la largeur des points entre eux
+
+
+### Améliorer la qualité de la broderie 
+
+1. Vérifier
+    * les réglages en fonction du type de tissue à broder 
+    * la sous-couche (underlay)
+    * la tension du fil
+    * le stabilisateur 
+
+2. Sélectionner le type de tissu utilisé dans le logiciel  
+    * Select Design > Fabric.
+    * À partir du type de tissu à broder, choisissez celui qui correspond le plus au votre
+    * Click OK.
+
+Les paramètres de tissu sélectionnés sont appliqués à tous les objets de la conception.  
+    F1 : Knit light weight : maille légère, jersey, tissu extensible fin et légé (- de 180 g)  
+    F2 : Knit Medium Weight : maille moyenne  jersey, tissu extensible de point moyen ( =+ à 180g)  
+    F3 : Knit Heavy Weight : maille lourde jersey, tissue de sweet-shirt, tissus extensible lourd (au-dessus de 300g/m ?)
+    F4 : Terry Medium Weight : tissu éponge de poids moyen  
+    F5 : Terry Heyvey Weight : tissue éponge lourd   
+    F6 : Woven light Weight : tissu tissé légé  
+    F7 :  Woven Medium Weight : tissu tissé moyen   
+    F8 : Woven Heavy Weight : tissu tissé lourd  
