@@ -92,20 +92,20 @@ Déplacement vertical : Alt + roulette souris
 
 #### Fills et Outlines 
   
-**Outilines :** Permet de modifier les bordure des motifs 
-**Fills :** permet de canger le type de remplissage des motif 
-    * Step fill : Remplissage de base avec points intermédiaires
-    * Satin : remplissage d’un point a a un point B sans points intérmédiaire (ok pour les petites surface mais fragile pour les grandes) 
+**Outilines :** Permet de modifier les bordure des motifs  
+**Fills :** permet de canger le type de remplissage des motif  
+    * Step fill : Remplissage de base avec points intermédiaires  
+    * Satin : remplissage d’un point a a un point B sans points intérmédiaire (ok pour les petites surface mais fragile pour les  grandes) 
 
 **Les autres points :** point fantaisistes (à tester) 
 
 
 #### Object proprieties 
  
-**Fill type :** permet de choisir le type de remplissage que l’on souhaite 
-**Stitch spacing :** permet de choisir l’espacement entre les lignes de points pour le remplissage (de manière générale 0.40 mm 
-**Step partern :** permet de créé des effet dans les points (croisée, en décalage etc..)
-**Stitch Length :** permet de mofofier la largeur des points entre eux
+**Fill type :** permet de choisir le type de remplissage que l’on souhaite   
+**Stitch spacing :** permet de choisir l’espacement entre les lignes de points pour le remplissage (de manière générale 0.40 mm  
+**Step partern :** permet de créé des effet dans les points (croisée, en décalage etc..)  
+**Stitch Length :** permet de mofofier la largeur des points entre eux  
 
 
 ### Améliorer la qualité de la broderie 
