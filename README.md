@@ -1,4 +1,4 @@
-# about_embroidery
+# Broderie
 
 ## Avant de débuter :  
 **Vérifier que la machine soit propre, pas de petits fils qui trainent partout dedans, car la Bernina est un peu capricieuse. Pour ce faire :**
@@ -55,13 +55,13 @@ Possibilité de remodifier certains éléments point par point.
 
 ### Méthode 3 : dessiner directement le motif dans le logiciel  
 
-#### Déplacement dans le logiciel :
+#### 1. Déplacement dans le logiciel :
 
 Zoom : roulette souris  
 Déplacement horizontal : ctrl + roulette souris  
 Déplacement vertical : Alt + roulette souris  
 
-#### Outils de sélections 
+#### 2. Outils de sélections 
 
 ![outils de selection](https://user-images.githubusercontent.com/30686874/29126215-fecadd2a-7d1d-11e7-8710-4b801556c8ca.JPG)
 
@@ -77,7 +77,7 @@ Déplacement vertical : Alt + roulette souris
     **Carré vert :** La ou la machine va commencer le motif de la broderie  
     **Croix rouge :** là où la machine va terminer le motif de la broderie 
     **Barre espace :** un fois le point sélectionné, cela permet de transformer le point d’ancrage d’une droite en point d’ancrage d’une courbe  
-#### La Toolbox : (les outils de base) 
+#### 3. La Toolbox : (les outils de base) 
 
 ![toolbox](https://user-images.githubusercontent.com/30686874/29126218-ff188a34-7d1d-11e7-9525-f3e50c09a4d1.JPG)  
 **0pen object :** dessiner un motif creux en cliquant a différent endroit > enter pour terminer l’objet  
@@ -90,7 +90,7 @@ Déplacement vertical : Alt + roulette souris
 **Lettering :** écrire des textes   
 
 
-#### Fills et Outlines 
+#### 4. Fills et Outlines 
   
 **Outilines :** Permet de modifier les bordure des motifs  
 **Fills :** permet de canger le type de remplissage des motif  
@@ -100,7 +100,7 @@ Déplacement vertical : Alt + roulette souris
 **Les autres points :** point fantaisistes (à tester) 
 
 
-#### Object proprieties 
+#### 5. Object proprieties 
  
 **Fill type :** permet de choisir le type de remplissage que l’on souhaite   
 **Stitch spacing :** permet de choisir l’espacement entre les lignes de points pour le remplissage (de manière générale 0.40 mm  
